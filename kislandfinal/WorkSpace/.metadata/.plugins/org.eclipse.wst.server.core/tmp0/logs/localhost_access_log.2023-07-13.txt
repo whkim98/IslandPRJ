@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [13/Jul/2023:10:40:45 +0900] "GET /project/resources/img/test2.png HTTP/1.1" 404 850
+0:0:0:0:0:0:0:1 - - [13/Jul/2023:10:40:47 +0900] "GET /project/resources/img/test3.png HTTP/1.1" 404 850
+0:0:0:0:0:0:0:1 - - [13/Jul/2023:10:40:48 +0900] "GET /project/resources/img/test.png HTTP/1.1" 404 849
+0:0:0:0:0:0:0:1 - - [13/Jul/2023:10:40:49 +0900] "GET /project/resources/img/test2.png HTTP/1.1" 404 850
+0:0:0:0:0:0:0:1 - - [13/Jul/2023:10:40:50 +0900] "GET /project/resources/img/test3.png HTTP/1.1" 404 850
+0:0:0:0:0:0:0:1 - - [13/Jul/2023:10:40:50 +0900] "GET /project/resources/img/test.png HTTP/1.1" 404 849
+0:0:0:0:0:0:0:1 - - [13/Jul/2023:10:40:56 +0900] "GET /project/resources/img/test2.png HTTP/1.1" 404 850
+0:0:0:0:0:0:0:1 - - [13/Jul/2023:11:10:40 +0900] "GET /kisland/resources/upload/materials/cruise5.mp4 HTTP/1.1" 206 65536
+0:0:0:0:0:0:0:1 - - [13/Jul/2023:11:10:40 +0900] "GET /kisland/resources/upload/materials/cruise5.mp4 HTTP/1.1" 206 23552000
